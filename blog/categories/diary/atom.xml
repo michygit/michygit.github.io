@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Diary | みっちゃんサイト]]></title>
   <link href="http://michygit.github.io/blog/categories/diary/atom.xml" rel="self"/>
   <link href="http://michygit.github.io/"/>
-  <updated>2015-05-21T01:34:53+09:00</updated>
+  <updated>2015-05-21T14:51:14+09:00</updated>
   <id>http://michygit.github.io/</id>
   <author>
     <name><![CDATA[みっちゃん]]></name>
@@ -14,11 +14,20 @@
 
   
   <entry>
+    <title type="html"><![CDATA[ドローン]]></title>
+    <link href="http://michygit.github.io/blog/2015/05/21/doron/"/>
+    <updated>2015-05-21T14:47:42+09:00</updated>
+    <id>http://michygit.github.io/blog/2015/05/21/doron</id>
+    <content type="html"><![CDATA[<p><blockquote><p>ドローンであれこれ騒がしいですね。<br/>便利と高性能という事で、ポテンシャルの高い物ほど諸刃の剣になるという見本みたいなものです。</p></p><p><p></p></blockquote></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[はじめました]]></title>
     <link href="http://michygit.github.io/blog/2015/05/21/hazimemasita/"/>
     <updated>2015-05-21T01:27:16+09:00</updated>
     <id>http://michygit.github.io/blog/2015/05/21/hazimemasita</id>
-    <content type="html"><![CDATA[<p><blockquote><p>気ままなブログで、<br/>不定期更新です。</p></blockquote></p>
+    <content type="html"><![CDATA[<p><blockquote><p>気ままなブログで、不定期更新です。</p></blockquote></p>
 ]]></content>
   </entry>
   
