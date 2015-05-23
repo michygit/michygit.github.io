@@ -4,11 +4,11 @@
   <title><![CDATA[みっちゃんサイト]]></title>
   <link href="http://michygit.github.io/atom.xml" rel="self"/>
   <link href="http://michygit.github.io/"/>
-  <updated>2015-05-22T01:32:28+09:00</updated>
+  <updated>2015-05-23T15:31:46+09:00</updated>
   <id>http://michygit.github.io/</id>
   <author>
     <name><![CDATA[みっちゃん]]></name>
-    
+    <email><![CDATA[michykoubou@nifty.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
